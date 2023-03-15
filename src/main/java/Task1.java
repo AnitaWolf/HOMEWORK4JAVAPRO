@@ -8,9 +8,7 @@ public class Task1 {
      * удалите дубликаты на месте таким образом,
      * чтобы каждый уникальный элемент появлялся
      * только один раз. Относительный порядок элементов
-     * должен быть сохранен неизменным.
-
-     */
+     * должен быть сохранен неизменным.*/
     public static int findLengthOfSortedPartOfArray(ArrayList<Integer> array) {
 
         int firstPointer = 0;
